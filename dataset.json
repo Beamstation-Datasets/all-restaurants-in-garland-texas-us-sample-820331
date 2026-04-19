@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Garland, Texas with a population of over 246k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Garland, Texas, US",
-  "export_job_id": "38961cfd-9cef-4e00-81fc-e7259495d801",
+  "export_job_id": "b0915c71-88b4-4c71-a624-11be68f40e3a",
   "github_org": "Beamstation-Datasets",
   "id_short": 820331,
   "location_name": "Garland",
   "location_type": "city",
   "repo_name": "all-restaurants-in-garland-texas-us-sample-820331",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/820331/beamstation_820331_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.87,
+  "sample_pct": 10.0,
   "sample_records": 62,
-  "sample_sha256": "4761507af8c4158901b4608fcf6294c37019f7fc6dedabc7b627f8556b1358bf",
-  "sample_size_bytes": 239693,
-  "total_records": 628,
-  "updated_at": "2026-04-09T13:45:21.727861+00:00"
+  "sample_sha256": "d93d92ec1858961b4e1d6f88b407f0b1a7ef2afa39bf35e59c83964c9d410283",
+  "sample_size_bytes": 237766,
+  "total_records": 620,
+  "updated_at": "2026-04-16T14:13:04.342831+00:00"
 }
