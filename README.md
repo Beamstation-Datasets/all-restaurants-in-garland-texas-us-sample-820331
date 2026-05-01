@@ -1,6 +1,6 @@
 # All Restaurants in Garland, Texas, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 63 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `820331` |
 | Location | Garland |
 | Category | Restaurants |
-| Full dataset size | 336 records |
-| Free sample size | 33 records (9.82%) |
-| Last export | 2026-04-23T12:52:06.620318+00:00 |
+| Full dataset size | 639 records |
+| Free sample size | 63 records (9.86%) |
+| Last export | 2026-05-01T00:39:32.445038+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-garland-texas-us-sample-820331/releases/download/sample-latest/beamstation_820331_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
