@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9e775a0e-72b9-4000-a49b-95da47c384bd",
+  "export_job_id": "ecf77edc-a19c-4359-a7a0-3fbc433c19c8",
   "id_short": 820331,
-  "published_at": "2026-04-23T19:41:14Z",
+  "published_at": "2026-05-01T07:09:24Z",
   "repo_name": "all-restaurants-in-garland-texas-us-sample-820331",
   "sample_asset_name": "beamstation_820331_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/820331/beamstation_820331_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "0d2975fdcdb85f8559ebe88de8df47811bcf42ddcf0386a78b2b7fbf6fe3128b",
-  "sample_size_bytes": 127224,
-  "total_records": 336
+  "sample_records": 63,
+  "sample_sha256": "dd6bca6def4dacb0a06d31afb6b52399adb868cb74a5399d23f85e111b5cf43a",
+  "sample_size_bytes": 214879,
+  "total_records": 639
 }
